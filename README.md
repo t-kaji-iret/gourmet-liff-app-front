@@ -1,2 +1,2 @@
-# gourmet-liff-app-front
-liff gourmet app frontend
+# 社内グルメ掲載LIFFアプリ　フロントエンドコード
+
